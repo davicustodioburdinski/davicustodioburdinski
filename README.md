@@ -1,16 +1,47 @@
-### Hi there 👋
+# 👋 Olá! Meu nome é Davi!
 
-<!--
-**davicustodioburdinski/davicustodioburdinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia, com foco em back-end utilizando **.NET Core 8**, além de experiência sólida em **React.js** e **React Native** para construção de interfaces modernas e responsivas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 🧩 Principais Tecnologias
+
+![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+---
+
+## ⚙️ Princípios e Práticas
+
+- 🧱 **SOLID**
+- 💡 **Domain-Driven Design (DDD)**
+- 🧪 **Test-Driven Development (TDD)**
+- 🧼 **Clean Code**
+- 🔁 **Clean Architecture**
+
+---
+
+## 🚀 Sobre Mim
+
+- 🎯 Foco em performance, legibilidade e testes automatizados.
+- 🔍 Busco escrever código limpo, sustentável e alinhado a boas práticas de engenharia.
+- 🤝 Valorizo colaboração em equipe e evolução contínua.
+- 📚 Estou sempre estudando e explorando novas soluções e ferramentas.
+
+---
+
+## 📫 Entre em Contato
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davicustodioburdinski/)
+- 📧 Email: davicustodioburdinski@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!

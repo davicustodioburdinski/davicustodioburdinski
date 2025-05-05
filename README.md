@@ -39,8 +39,6 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em back-end utilizando 
 
 ## 📊 GitHub Stats
 
-![Davicustodioburdinski's GitHub stats](https://github-readme-stats.vercel.app/api?username=davicustodioburdinski&show_icons=true&theme=dark&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davicustodioburdinski&layout=compact&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=davicustodioburdinski&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
